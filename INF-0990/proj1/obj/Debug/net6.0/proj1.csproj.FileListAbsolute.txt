@@ -1,0 +1,15 @@
+D:\extecamp\csharp-extecamp-intro\proj1\bin\Debug\net6.0\proj1.exe
+D:\extecamp\csharp-extecamp-intro\proj1\bin\Debug\net6.0\proj1.deps.json
+D:\extecamp\csharp-extecamp-intro\proj1\bin\Debug\net6.0\proj1.runtimeconfig.json
+D:\extecamp\csharp-extecamp-intro\proj1\bin\Debug\net6.0\proj1.dll
+D:\extecamp\csharp-extecamp-intro\proj1\bin\Debug\net6.0\proj1.pdb
+D:\extecamp\csharp-extecamp-intro\proj1\obj\Debug\net6.0\proj1.csproj.AssemblyReference.cache
+D:\extecamp\csharp-extecamp-intro\proj1\obj\Debug\net6.0\proj1.GeneratedMSBuildEditorConfig.editorconfig
+D:\extecamp\csharp-extecamp-intro\proj1\obj\Debug\net6.0\proj1.AssemblyInfoInputs.cache
+D:\extecamp\csharp-extecamp-intro\proj1\obj\Debug\net6.0\proj1.AssemblyInfo.cs
+D:\extecamp\csharp-extecamp-intro\proj1\obj\Debug\net6.0\proj1.csproj.CoreCompileInputs.cache
+D:\extecamp\csharp-extecamp-intro\proj1\obj\Debug\net6.0\proj1.dll
+D:\extecamp\csharp-extecamp-intro\proj1\obj\Debug\net6.0\refint\proj1.dll
+D:\extecamp\csharp-extecamp-intro\proj1\obj\Debug\net6.0\proj1.pdb
+D:\extecamp\csharp-extecamp-intro\proj1\obj\Debug\net6.0\proj1.genruntimeconfig.cache
+D:\extecamp\csharp-extecamp-intro\proj1\obj\Debug\net6.0\ref\proj1.dll
