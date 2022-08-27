@@ -11,4 +11,5 @@ int b = 2;
 Max(a, b);   // 3
 Max(b, a);   // 3
 
+//Isso aqui é isso aqui
 Console.WriteLine($"Max value between {a} and {b} is {Max(a, b)}");
