@@ -6,6 +6,8 @@ int Max(int a, int b)
 {
   return (a > b) ? a : b;
 }
+
+// Criando variaveis
 int a = 3;
 int b = 2;
 
